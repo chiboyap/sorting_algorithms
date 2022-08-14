@@ -375,7 +375,4 @@ struct deck_node_s *next;
 
 ## Author:
 
-Christopher Wiafe Debrah
-
-  - [Github](https://github.com/askdebb?tab=repositories)
-
+  [CHINAEMEREM ALIONYE PASCHAL](https://github.com/chiboyap)
